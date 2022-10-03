@@ -8,6 +8,7 @@ public class Demo {
 	public static void main(String[] args) {
 		log.error("log is success");
 		System.out.println("adding 1 line");
+		System.out.println("adding 2 line");
 
 	}
 
