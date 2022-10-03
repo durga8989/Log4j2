@@ -9,6 +9,7 @@ public class Demo {
 		log.error("log is success");
 		System.out.println("adding 1 line");
 		System.out.println("adding 2 line");
+		System.out.println("adding 3 line");
 
 	}
 
