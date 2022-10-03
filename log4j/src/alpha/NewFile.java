@@ -6,6 +6,7 @@ public class NewFile {
 		// TODO Auto-generated method stub
 		System.out.println("line1");
 		System.out.println("line2");
+		System.out.println("line3");
 
 	}
 
