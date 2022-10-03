@@ -9,6 +9,7 @@ public class Demo {
 		log.error("log is success");
 		System.out.println("checking git");
 		System.out.println("added 2nd line");
+		System.out.println("added 3rd line");
 	}
 
 }
